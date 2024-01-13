@@ -1,12 +1,16 @@
-<p align="left">Hi! My name is Ditik Rimal</p>
+<h1 align="left">Hi! My name is Ditik Rimal</h1>
 
 ###
 
-<p align="left">Hello there! I am a dedicated Computer Science student with a strong foundation in HTML, CSS, and JavaScript, complemented by hands-on experience in Laravel for web development. I also possess a basic proficiency in C# for effective customer management solutions. My journey into the world of mobile app development led me to explore Dart for Flutter, expanding my skill set to create seamless cross-platform experiences. As I pursue my Computer Science degree, I am enthusiastic about learning and staying at the forefront of technology trends. With a keen eye for detail and a commitment to delivering high-quality solutions, I bring a combination of creativity and technical expertise to every project. Whether it's crafting responsive and visually appealing websites or developing efficient customer management systems, I approach each challenge with curiosity and a growth mindset. As I continue my educational journey, I am excited to embrace new technologies, refine my skills, and contribute meaningfully to the ever-evolving field of computer science. Let's connect and explore the boundless possibilities of technology together! 🌐💻✨</p>
+<h4 align="left">Hello there! I am a dedicated Computer Science student with a strong foundation in HTML, CSS, and JavaScript, complemented by hands-on experience in Laravel for web development. I also possess a basic proficiency in C# for effective customer management solutions. My journey into the world of mobile app development led me to explore Dart for Flutter, expanding my skill set to create seamless cross-platform experiences. As I pursue my Computer Science degree, I am enthusiastic about learning and staying at the forefront of technology trends. With a keen eye for detail and a commitment to delivering high-quality solutions, I bring a combination of creativity and technical expertise to every project. Whether it's crafting responsive and visually appealing websites or developing efficient customer management systems, I approach each challenge with curiosity and a growth mindset. As I continue my educational journey, I am excited to embrace new technologies, refine my skills, and contribute meaningfully to the ever-evolving field of computer science. Let's connect and explore the boundless possibilities of technology together! 🌐💻✨</h4>
 
 ###
 
-<p align="left">-🌍  I'm based in Nepal<br>-🖥️  See my portfolio at Ditik Rimal Portfolio Website<br>-✉️  You can contact me at rml.ditik@gmail.com<br>-🚀  I'm currently working on E-Commerce App (Nike Mock)<br>-🧠  I'm learning Flutter, Laravel.<br>-🤝  I'm open to collaborating on Web and Mobile Development</p>
+<h4 align="left">-🌍  I'm based in Nepal<br>-🖥️  See my portfolio at Ditik Rimal Portfolio Website<br>-✉️  You can contact me at rml.ditik@gmail.com<br>-🚀  I'm currently working on E-Commerce App (Nike Mock)<br>-🧠  I'm learning Flutter, Laravel.<br>-🤝  I'm open to collaborating on Web and Mobile Development</h4>
+
+###
+
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -38,12 +42,20 @@
 
 ###
 
+<h2 align="left">Github Stats</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ditikrimal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ditikrimal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Socials</h2>
 
 ###
 
