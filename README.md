@@ -14,7 +14,7 @@ Hello there! I am a dedicated Computer Science student with a strong foundation 
 * 🤝  I'm open to collaborating on Web and Mobile Development
 
 <a href="https://www.github.com/ditikrimal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ditikrimal?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/ditikrimal?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
 ### Skills
 
@@ -30,8 +30,6 @@ src="https://img.shields.io/github/followers/ditikrimal?logo=github&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Top Repositories</b>
 
-<a href="http://www.github.com/ditikrimal"><img src="https://github-readme-stats.vercel.app/api?username=ditikrimal&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="ditikrimal's GitHub stats" /></a>
-
-<a href="https://github.com/ditikrimal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditikrimal&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div width="100%" align="center"><a href="https://github.com/ditikrimal/Gurus-Fitness" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ditikrimal&repo=Gurus-Fitness&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
